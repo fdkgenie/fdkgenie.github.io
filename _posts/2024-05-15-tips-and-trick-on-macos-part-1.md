@@ -15,13 +15,11 @@ Bài viết gom nhặt tạm một số mẹo và thủ thuật khi làm việc 
 
 + Tạo alias:
 
-
         alias rrun="rockable"
         alias rsee="see"
         alias rclean="rrun -c"
         alias rcleana="rclean && rm *.tga"
         alias rrock="rrun input.txt && rsee"
-
 
 - Với shell khác...
 
